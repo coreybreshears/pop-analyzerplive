@@ -30,6 +30,9 @@
     "chai-http": "^4.3.0",
     "mocha": "^8.2.1"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "keywords": [
     "analyzer"
   ],
